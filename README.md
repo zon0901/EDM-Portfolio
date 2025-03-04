@@ -5,4 +5,4 @@ This portfolio showcases my expertise in data cleaning using Excel, where I have
 Hi, I’m Edzon D. Bonifacio, a current student enrolled at CCA. I graduated from System Plus and have developed a strong foundation in data analysis and Excel. I'm passionate about refining data and solving complex problems to make information more accessible and useful.
 
 ## My Projects
-Midterm Lab Task 1: [Data Cleaning and Preparation using excel]()
+Midterm Lab Task 1: [Data Cleaning and Preparation using excel](Midterm%20Lab%20Task%201/task1.md)
