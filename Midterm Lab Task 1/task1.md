@@ -16,3 +16,5 @@ This portfolio demonstrates the process of data cleaning and preparation in Exce
    ![Image](https://github.com/user-attachments/assets/9a69b359-e8dc-49c6-a5ca-69af4f9d4eda)
 
 ![Image](https://github.com/user-attachments/assets/1eeb7573-7f63-4b14-ac0a-1fcb95974ae1)
+
+![Screenshot (1)](https://github.com/user-attachments/assets/f463cbec-2a3a-4996-8d12-768ef1edf241)
