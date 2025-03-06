@@ -14,9 +14,9 @@ This portfolio demonstrates the process of data cleaning and preparation in Exce
 
   
    ## Raw Data
-    HERE'S OUR SCREENSHOTS
    ![Image](https://github.com/user-attachments/assets/9a69b359-e8dc-49c6-a5ca-69af4f9d4eda)
    ## Data Cleaning
 ![Image](https://github.com/user-attachments/assets/1eeb7573-7f63-4b14-ac0a-1fcb95974ae1)
    ## ERD
 ![ERD edzon](https://github.com/user-attachments/assets/16569495-902d-439c-b09f-6ad039d7a1da)
+
