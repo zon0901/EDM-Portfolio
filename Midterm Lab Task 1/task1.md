@@ -12,8 +12,9 @@ This portfolio demonstrates the process of data cleaning and preparation in Exce
 3. **Standardize Data Formats:**  
    Use Excel's text and date functions to standardize inconsistent formats, such as converting all text to uppercase or ensuring uniform date formats across columns, making the data easy to work with for analysis.
 
-   HERE OUR SCREENSHOTS
+  
    ## Raw Data
+    HERE'S OUR SCREENSHOTS
    ![Image](https://github.com/user-attachments/assets/9a69b359-e8dc-49c6-a5ca-69af4f9d4eda)
    ## Data Cleaning
 ![Image](https://github.com/user-attachments/assets/1eeb7573-7f63-4b14-ac0a-1fcb95974ae1)
