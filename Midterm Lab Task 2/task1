@@ -11,8 +11,8 @@ Right-click the dataset in the Queries pane
 Select Duplicate
 
 #Step 3: Clean Salary Data
-Select the Salary Estimate column
 Go to Transform Menu → Extract → Text Before Delimiter
+Select the Salary Estimate column
 Type "(" and click OK
 Create two new columns: Min Salary and Max Salary
 Select Salary Estimate column → Add Column Menu → Column from Examples → From Selections
@@ -21,4 +21,4 @@ Rename the column to "Min Sal"
 Repeat the process for Max Salary
 
 ## Here's my Screenshot ##
-![Screenshot] (Images/1.PNG)
+
