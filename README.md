@@ -9,4 +9,4 @@ Midterm Lab Task 1: [Data Cleaning and Preparation using excel](Midterm%20Lab%20
 
 Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query Editor ](Midterm%20Lab%20Task%202/task1)
 
-Midterm Lab Task 2: [Creating Pivot Table and Dashboard](Midterm%20Task%203)
+Midterm Lab Task 3: [Creating Pivot Table and Dashboard](Midterm%20Task%203)
