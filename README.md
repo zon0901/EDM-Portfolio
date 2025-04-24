@@ -1,3 +1,7 @@
+
+![unnamed](https://github.com/user-attachments/assets/9bb1f4ea-22f4-404a-bd67-62def092f04e)
+
+
 # EDM-Portfolio
 This portfolio showcases my expertise in data cleaning using Excel, where I have worked on organizing, structuring, and correcting datasets to ensure accuracy and consistency. It highlights my skills in functions like VLOOKUP, pivot tables, data validation, and text functions, aimed at preparing data for analysis and decision-making.
 
