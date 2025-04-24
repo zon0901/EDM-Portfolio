@@ -1,4 +1,4 @@
-# Finals Lab Task 2 Transforming ER into Relational Tables
+# Finals Lab Task 2: Transforming ER into Relational Tables
 * Step by Step
 
 ## Here my Query Statement
