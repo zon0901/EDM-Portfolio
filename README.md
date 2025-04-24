@@ -11,8 +11,8 @@ Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query Editor ]
 
 Midterm Lab Task 3: [Creating Pivot Table and Dashboard](Midterm%20Task%203)
 
-Finals Lab Task 1: [MySQL Basics](/finals%20lab%task%201/README.md)
+finals lab task 1: [MySQL Basics](finals%20lab%task%201/README.md)
 
-Finals Lab Task 2: [Transforming ER into Relational Tables](finals%20lab%task%202)
+finals lab task 2: [Transforming ER into Relational Tables](finals%20lab%task%202)
 
-Finals Lab Task 3: [Table Manipulation](finals%20lab%task%203)
+finals lab task 3: [Table Manipulation](finals%20lab%task%203)
