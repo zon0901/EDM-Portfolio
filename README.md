@@ -20,3 +20,5 @@ finals lab task 1: [MySQL Basics](finals%20lab%20task%201/README.md)
 finals lab task 2: [Transforming ER into Relational Tables](finals%20lab%20task%202)
 
 finals lab task 3: [Table Manipulation](finals%20lab%20task%203)
+
+finals lab task 3.1: [Using MYSQL CLAUSE](final%20lab%20task%203.1/README.md)
