@@ -22,3 +22,5 @@ finals lab task 2: [Transforming ER into Relational Tables](finals%20lab%20task%
 finals lab task 3: [Table Manipulation](finals%20lab%20task%203)
 
 finals lab task 3.1: [Using MYSQL CLAUSE](https://github.com/zon0901/EDM-Portfolio/tree/main/final-lab-task-3.1)
+
+final lab task 5: [Using SQL views and Stored Procedures and Stored Functions](https://zon0901.github.io/final-lab-task-5/)
